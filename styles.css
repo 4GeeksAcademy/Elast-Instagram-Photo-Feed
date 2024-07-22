@@ -1,0 +1,38 @@
+.post-header-brands{
+     text-align: left;
+     translate: 2%;
+     font-size: 40px;
+     position:relative;
+     bottom: -20px;
+     
+}
+.container{
+    text-align: right;
+    translate: -1%;
+    position: relative;
+    top: -20px;
+    
+}
+.post-icon{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+}
+.post-paragraph{
+    padding-right: 570px;
+    position: relative;
+    top: 110px;
+}
+.post-p{
+    padding-right: 440px;
+    position: relative;
+    top: 70px;
+}
+img{
+    transform: scale(0.5);
+    translate: -63%;
+    margin-top: -100px;
+    inline-size: -300px;
+    justify-content: center;
+}
